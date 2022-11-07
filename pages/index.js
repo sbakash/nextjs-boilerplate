@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          Page owned by shanmug{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
